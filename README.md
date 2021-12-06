@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quinten
-- 👀 I’m interested in new projects
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in new trends
+- 🌱 I’m currently learning Angular
 - 📫 Quinten.onya@hotmail.com
 
 <!---
