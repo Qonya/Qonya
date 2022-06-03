@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quinten
 - 👀 I’m interested in new trends
 - 🌱 I’m currently learning Angular
-- 📫 Quinten.onya@hotmail.com
+- 📫 quinten@envise.be
 
 <!---
 Qonya/Qonya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
